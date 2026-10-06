@@ -1,264 +1,163 @@
-# Awesome-Software-Development-Project-Workflow
+![Awesome Software Development Project Workflow Banner](assets/banner.svg)
 
-## Top Software Development Project Workflow Ecosystem
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Software-Development-Project-Workflow/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Software-Development-Project-Workflow?style=social" alt="Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Software-Development-Project-Workflow/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Software-Development-Project-Workflow?style=social" alt="Forks"/></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
+# 🚀 Awesome Software Development Project Workflow
 
+> **A curated collection of premier SaaS platforms, open-source tools, Agile planning suites, sprint boards, and DevOps issue tracking solutions for modern engineering teams.**
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
-
-*Focused on Agile Planning, Issue Tracking & Integrated Development Workflows*  
+*Focusing on Agile planning, Scrum & Kanban workflows, issue tracking, CI/CD integrations, and enterprise development sovereignty.*
 
 **Last updated: October 2026**
 
-
-
-This repository tracks notable **commercial project workflow platforms** and **open-source projects** that help software teams plan work, track issues, manage sprints, and connect development activity to business outcomes — from backlog grooming to release.
-
-
-
-**Examples** include AWS CodeStar, GitHub Enterprise, GitLab, Azure DevOps, Jira Software, Linear, Bitbucket, ClickUp, Targetprocess, and Shortcut (the category leaders).
-
-
-
-**Open-source emphasis**: Software development workflow is one of the strongest open-source domains. **Plane** leads as the modern AI-native alternative to Jira, **OpenProject** delivers comprehensive Gantt and Agile planning, **Taiga** provides focused Scrum/Kanban, and **Leantime** emphasizes accessibility. **Focalboard**, **Vikunja**, and **Wekan** cover lightweight kanban. **GitLab CE** and **Gitea** integrate issue tracking with source control. This section is heavily expanded.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
-- [Open-Source GitHub Projects](#open-source-github-projects)
-
-- [How to Contribute](#how-to-contribute)
-
-- [Disclaimer](#disclaimer)
-
-
-
-## SaaS/Hosted Platforms
-
-
-
-- **[Jira Software](https://www.atlassian.com/software/jira)**  
-
-  **The standard for Agile software development** — Scrum and Kanban boards, backlog management, sprints, epics, and deep developer tool integration. **The reference for software project tracking** .
-
-
-
-- **[GitHub Enterprise](https://github.com/enterprise)**  
-
-  **Integrated development platform** — issues, projects, Actions CI/CD, and Copilot AI. **The de facto standard for open-source and enterprise development** .
-
-
-
-- **[GitLab](https://about.gitlab.com/)**  
-
-  **The complete DevOps platform** — SCM, CI/CD, issue tracking, and project management in one application. **Available as SaaS or self-managed** .
-
-
-
-- **[Azure DevOps](https://azure.microsoft.com/en-us/products/devops)**  
-
-  **Microsoft's integrated DevOps suite** — Boards, Repos, Pipelines, and Test Plans. **Best for Microsoft-centric organizations** .
-
-
-
-- **[Linear](https://linear.app/)**  
-
-  **The modern issue tracker** — fast, keyboard-driven, and beautifully designed. **Best for startups and product teams** .
-
-
-
-- **[ClickUp](https://clickup.com/)**  
-
-  **All-in-one productivity platform** — tasks, docs, goals, chat, and whiteboards. **Best for teams wanting everything in one tool** .
-
-
-
-- **[AWS CodeStar](https://aws.amazon.com/codestar/)**  
-
-  AWS's unified development service — project templates, CI/CD, and collaboration. **Best for AWS-native teams** .
-
-
-
-- **[Bitbucket](https://bitbucket.org/)**  
-
-  Atlassian's Git hosting with deep Jira integration. **Best for Atlassian ecosystem users** .
-
-
-
-- **[Targetprocess](https://www.apptio.com/products/targetprocess/)**  
-
-  **Enterprise Agile planning** — portfolio management, SAFe support, and customizable workflows. **Best for large-scale Agile** .
-
-
-
-- **[Shortcut](https://shortcut.com/)**  
-
-  **Modern project management for software teams** — stories, epics, iterations, and objectives. **Best for product-driven teams** .
-
-
-
-## Open-Source GitHub Projects
-
-
-
-- **[Plane](https://github.com/makeplane/plane)**  
-
-  **Modern open-source alternative to Jira, Linear, Monday, and ClickUp**, AGPLv3 licensed with **47,800+ GitHub stars** . **AI-native project management** with Work Items, Cycles (sprints with burn-down charts), Modules (grouping related work), Pages (wiki with AI), and five view layouts (List, Board, Spreadsheet, Gantt, Calendar) . Integrations with GitHub, GitLab, Slack, Sentry; importers from Jira, Linear, Asana, ClickUp, Monday . Deployable via Docker AIO container on Railway or self-hosted . **The most modern open-source project management platform** — best for software teams wanting a Jira alternative .
-
-
-
-- **[OpenProject](https://github.com/opf/openproject)**  
-
-  **The leading open-source project management suite**, AGPLv3 licensed with **14,700+ GitHub stars** . **Full-featured with tasks (Work Packages), Gantt charts, Agile boards (Scrum/Kanban), meetings, time tracking, cost management, and documentation** . Recent 17.6/17.9 releases add **XWiki integration**, **sprint goals**, **backlog buckets**, **task creation from documents**, and **parallel Jira migration** with resumable imports . Docker deployment recommended; enterprise edition adds support and advanced features . **The de facto open-source Microsoft Project alternative** — the most complete open-source PM platform .
-
-
-
-- **[Taiga](https://github.com/kaleidos-ventures/taiga)**  
-
-  **Agile project management for Scrum and Kanban teams**, AGPL-3.0 licensed . **Backlog management, sprint planning, and kanban boards** . **Best for Agile teams wanting open-source Scrum** .
-
-
-
-- **[Focalboard](https://github.com/mattermost-community/focalboard)**  
-
-  **Open-source, self-hosted alternative to Trello, Notion, and Asana**, MIT/AGPL/Apache licensed . **Kanban boards, table views, and gallery views** for individuals and teams . Maintained by Mattermost community . **Best for lightweight kanban project management** .
-
-
-
-- **[Wekan](https://github.com/wekan/wekan)**  
-
-  **Open-source Trello-like kanban board**, MIT licensed . **Real-time collaboration, swimlanes, and card dependencies** . **Best for simple kanban boards** .
-
-
-
-- **[Leantime](https://github.com/Leantime/leantime)**  
-
-  **PHP-based project management designed for non-project managers**, AGPL-3.0 licensed with **10,200+ GitHub stars** . **Accessibility features for ADHD, autism, and dyslexia** . Kanban, Gantt, calendar, and table views with goal tracking, wikis, and Slack/Mattermost integrations . LDAP/OIDC authentication, S3 storage, REST API, 20+ languages . **Best for teams wanting simplicity and accessibility** .
-
-
-
-- **[Vikunja](https://github.com/go-vikunja/vikunja)**  
-
-  **Open-source task management with hierarchical structure**, AGPL-3.0 licensed . **Smart recurring tasks and Telegram integration** . List/table/gantt views . **Best for personal and small team task management** .
-
-
-
-- **[Kanboard](https://github.com/kanboard/kanboard)**  
-
-  **Simple visual task board**, MIT licensed . **Minimalist kanban with drag-and-drop, swimlanes, and plugin ecosystem** . **Best for teams wanting the simplest possible kanban** .
-
-
-
-- **[Redmine](https://github.com/redmine/redmine)**  
-
-  **Classic open-source issue tracking and project management**, GPL-2.0 licensed . **Gantt charts, calendars, wikis, forums, and role-based access** . Mature ecosystem with hundreds of plugins . **Best for organizations wanting a veteran open-source PM tool** .
-
-
-
-- **[OneDev](https://github.com/theonedev/onedev)**  
-
-  **All-in-one DevOps platform with SCM, CI/CD, and issue tracking**, MIT licensed . **Self-hosted with a single Java binary** . **Best for teams wanting GitLab-like features with simpler deployment** .
-
-
-
-- **[GitLab Community Edition](https://gitlab.com/gitlab-org/gitlab)**  
-
-  **The leading open-source DevOps platform**, MIT licensed core with **25,000+ GitHub stars** . **Full SCM with CI/CD, issue tracking, and project management** . **The most complete open-source GitHub alternative** . **Best for teams wanting an all-in-one DevOps platform** .
-
-
-
-- **[Gitea](https://github.com/go-gitea/gitea)**  
-
-  **Lightweight, fast, and easy-to-install Git service**, MIT licensed with **45,000+ GitHub stars** . **Written in Go** — single binary with minimal resource usage . Features repositories, pull requests, issues, wikis, and **built-in Actions-style CI** . **Best for self-hosted Git with integrated issue tracking** .
-
-
-
-- **[4ga Boards](https://github.com/RARgames/4gaBoards)**  
-
-  **Straightforward real-time kanban boards**, MIT licensed . **Elegant dark mode, collapsible todo lists, and multitasking tools** . Node.js/Docker/K8S deployment . **Best for modern, lightweight kanban** .
-
-
-
-- **[Orangescrum Community Edition](https://github.com/Orangescrum/opensource-community-edition)**  
-
-  **Free self-hosted project management with no seat limit**, GNU AGPL v3 . Projects, tasks, subtasks, list/Kanban/calendar/overview views, custom task statuses, checklists, milestones, time logging, comments, mentions, labels, saved search filters, task reminders, roles/permissions, 2FA, REST API . **Not included**: Scrum/sprints, Gantt charts, resource management, timesheets, budget/cost, invoicing, defect tracking, test cases, document management, wiki, risk management, AI chat, MCP server, SSO . **Best for self-hosted teams wanting core PM without proprietary licensing** .
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **epicd** — Markdown-native task manager and kanban visualizer for any Git repository, MIT licensed, AI-ready with MCP support for Claude Code, Gemini CLI, Codex .
-
-- **Jotter** — Local-first privacy-focused task management stored as Markdown files, Kanban/list/Eisenhower Matrix views, git sync, Android app, MCP support .
-
-- **AppFlowy** — Open-source Notion alternative with to-do lists, kanban, and databases, AGPL-3.0 licensed .
-
-- **Donetick** — Task and chore management for personal/family use with scheduling, assignment, and group sharing, Go-based .
-
-- **Nullboard** — Single-page minimalist kanban board, BSD-2-Clause licensed, compact and highly readable .
-
-- **Taskwarrior** — Command-line TODO list manager, flexible, fast, and unobtrusive .
-
-- **Mimrai** — Lightweight open-source task management (early stage), AGPL-3.0 for non-commercial use .
-
-- **Paca** — AI-native project management platform with MCP server, MIT licensed .
-
-- **WorkBase** — Local-first desktop project manager (offline Trello alternative), open-source .
-
-- **Projectlibre** — Open-source Microsoft Project alternative with Gantt charts .
-
-
-
-**Frameworks for building custom development workflow solutions**: Combine **Plane** for modern AI-native issue tracking with cycles and modules . Use **OpenProject** for full-featured project management with Gantt, Agile, and wiki integration . Deploy **GitLab CE** or **Gitea** for integrated SCM and issue tracking . Choose **Taiga** for focused Scrum/Kanban . Use **Leantime** for accessibility-focused teams . Integrate **OneDev** for all-in-one DevOps with simple deployment . Note that true enterprise workflow platforms with portfolio management, SAFe support, and deep developer tool integration (Jira, Azure DevOps, Targetprocess) remain primarily commercial territory; open-source stacks provide strong issue tracking, sprint planning, and collaboration foundations that require integration for complete development workflows.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Development workflow platforms handle sensitive project data, source code references, and team communications. Self-hosted solutions require proper security hardening, access controls, and backup procedures.
-
-- **Open-source platforms vary significantly in maturity** — Plane and OpenProject are production-ready; Orangescrum Community Edition explicitly excludes Scrum, Gantt, timesheets, budget, and document management . Evaluate gaps before deployment.
-
-- **Jira migration is non-trivial** — OpenProject 17.9 added parallel Jira migration with resumable imports, but field mapping and workflow recreation require planning .
-
-- The open-source ecosystem provides strong issue tracking, sprint planning, and collaboration foundations, but **portfolio management, SAFe support, and deep developer tool integration** remain primarily commercial offerings.
-
-
+---
+
+## 📌 Table of Contents
+
+- [☁️ SaaS / Hosted Platforms](#%EF%B8%8F-saas--hosted-platforms)
+- [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🛠️ Frameworks & Integration Stacks](#%EF%B8%8F-frameworks--integration-stacks)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [⚠️ Disclaimer](#%EF%B8%8F-disclaimer)
+- [💖 Support](#-support)
+- [📈 Star History](#-star-history)
 
 ---
 
+## ☁️ SaaS / Hosted Platforms
 
+📊 **Market Insights**: The global **Software Development Project Management & DevOps Workflow Market** is estimated at **$18.5 Billion in 2026** (projected to grow at a ~16.8% CAGR). The sector is **moderately fragmented**, featuring an enterprise oligopoly (Microsoft GitHub/Azure DevOps, Atlassian Jira, GitLab) alongside fast-growing specialized challengers (Linear, ClickUp, Shortcut).
+
+| Product | Description | Specific Starting Price | Free Tier / Trial Limit | Company Valuation / Revenue |
+| :--- | :--- | :--- | :--- | :--- |
+| **[GitHub Enterprise](https://github.com/enterprise)** | Integrated development platform — issues, projects, Actions CI/CD, and Copilot AI. | **$4.00** / user / mo *(Team tier)* | **Forever Free** (Unlimited users, 2,000 CI/CD mins/mo, 500MB storage) | **~$3.1 Trillion** *(Microsoft)* |
+| **[Azure DevOps](https://azure.microsoft.com/en-us/products/devops)** | Microsoft's integrated DevOps suite — Boards, Repos, Pipelines, and Test Plans. | **$6.00** / user / mo *(Basic tier)* | **Forever Free** (First 5 users free, 1,800 free CI/CD parallel job mins/mo) | **~$3.1 Trillion** *(Microsoft)* |
+| **[AWS CodeStar](https://aws.amazon.com/codestar/)** | Unified AWS development service — project templates, CI/CD, and collaboration. | **$1.00** / active pipeline / mo | **Forever Free** (1 active pipeline free/mo, 1,000 build mins/mo on CodeBuild) | **~$2.2 Trillion** *(Amazon)* |
+| **[Targetprocess](https://www.apptio.com/products/targetprocess/)** | Enterprise Agile planning — portfolio management, SAFe support, and customizable workflows. | **$20.00** / user / mo | **30-Day Free Trial** (Up to 1,000 work entities) | **~$200 Billion** *(IBM / Apptio)* |
+| **[Jira Software](https://www.atlassian.com/software/jira)** | The industry reference for Agile software development — Scrum/Kanban boards, backlog grooming, and epics. | **$8.15** / user / mo *(Standard tier)* | **Forever Free** (Up to 10 users, 2GB storage, community support) | **~$45 Billion** *(Atlassian)* |
+| **[Bitbucket](https://bitbucket.org/)** | Atlassian's Git code management with deep Jira integration, pull requests, and built-in CI/CD. | **$3.00** / user / mo *(Standard tier)* | **Forever Free** (Up to 5 users, 50 build mins/mo, 10GB LFS storage) | **~$45 Billion** *(Atlassian)* |
+| **[GitLab](https://about.gitlab.com/)** | Complete DevOps platform — SCM, CI/CD pipelines, security scanning, and issue tracking. | **$29.00** / user / mo *(Premium tier)* | **Forever Free** (Up to 5 users, 400 compute mins/mo, 5GB storage) | **~$9.0 Billion** *(GitLab Inc.)* |
+| **[ClickUp](https://clickup.com/)** | All-in-one productivity suite — tasks, docs, whiteboards, goals, and AI assistant. | **$7.00** / user / mo *(Unlimited tier)* | **Forever Free** (Unlimited users, 100MB storage limit) | **~$4.0 Billion** *(ClickUp)* |
+| **[Linear](https://linear.app/)** | Modern, high-speed issue tracker — keyboard-driven, stream-based sprint management for product teams. | **$8.00** / user / mo *(Standard tier)* | **Forever Free** (Unlimited users, up to 250 active issues) | **~$500 Million** *(Linear)* |
+| **[Shortcut](https://shortcut.com/)** | Built specifically for software teams — stories, epics, iterations, and product roadmaps. | **$8.50** / user / mo *(Team tier)* | **Forever Free** (Up to 10 users, full core feature access) | **~$200 Million** *(Shortcut)* |
+
+---
+
+## 🔓 Open-Source GitHub Projects
+
+Sorted by GitHub community popularity (stargazers count descending):
+
+1. ⚡ **[AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)** [![GitHub stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white)](https://github.com/AppFlowy-IO/AppFlowy/stargazers)  
+   **Open-source Notion alternative** built with Flutter and Rust. Features offline-first privacy, customizable task boards, kanban views, and extensible databases.
+
+2. 🎨 **[AFFiNE](https://github.com/toeverything/AFFiNE)** [![GitHub stars](https://img.shields.io/github/stars/toeverything/AFFiNE?style=social&color=white)](https://github.com/toeverything/AFFiNE/stargazers)  
+   **Hyper-hybrid workspace platform** merging docs, whiteboards, and multi-dimensional project databases for modern engineering teams.
+
+3. 📊 **[NocoDB](https://github.com/nocodb/nocodb)** [![GitHub stars](https://img.shields.io/github/stars/nocodb/nocodb?style=social&color=white)](https://github.com/nocodb/nocodb/stargazers)  
+   **Open-source Airtable alternative** that transforms any SQL database into a smart spreadsheet & workflow management interface.
+
+4. ✈️ **[Plane](https://github.com/makeplane/plane)** [![GitHub stars](https://img.shields.io/github/stars/makeplane/plane?style=social&color=white)](https://github.com/makeplane/plane/stargazers)  
+   **Modern AI-native open-source alternative to Jira & Linear**. Features Work Items, Cycles (sprints with burn-down charts), Modules, Pages (wiki with AI), and five view layouts (List, Board, Spreadsheet, Gantt, Calendar).
+
+5. ☕ **[Gitea](https://github.com/go-gitea/gitea)** [![GitHub stars](https://img.shields.io/github/stars/go-gitea/gitea?style=social&color=white)](https://github.com/go-gitea/gitea/stargazers)  
+   **Lightweight, fast Git service written in Go**. Includes issue tracking, code reviews, pull requests, wikis, and built-in Actions-style CI/CD pipelines.
+
+6. 📝 **[Outline](https://github.com/outline/outline)** [![GitHub stars](https://img.shields.io/github/stars/outline/outline?style=social&color=white)](https://github.com/outline/outline/stargazers)  
+   **Fast, collaborative team knowledge base and documentation workspace** built specifically for software teams and product specifications.
+
+7. 📌 **[Focalboard](https://github.com/mattermost-community/focalboard)** [![GitHub stars](https://img.shields.io/github/stars/mattermost-community/focalboard?style=social&color=white)](https://github.com/mattermost-community/focalboard/stargazers)  
+   **Self-hosted alternative to Trello, Notion, and Asana** maintained by the Mattermost community. Kanban boards, table, and gallery views.
+
+8. 🦊 **[GitLab Community Edition](https://github.com/gitlabhq/gitlabhq)** [![GitHub stars](https://img.shields.io/github/stars/gitlabhq/gitlabhq?style=social&color=white)](https://github.com/gitlabhq/gitlabhq/stargazers)  
+   **Leading open-source DevOps platform core**. Complete SCM with CI/CD pipelines, issue tracking, and project management.
+
+9. ⏱️ **[Super Productivity](https://github.com/johannesjo/super-productivity)** [![GitHub stars](https://img.shields.io/github/stars/johannesjo/super-productivity?style=social&color=white)](https://github.com/johannesjo/super-productivity/stargazers)  
+   **Advanced developer task manager & time tracker** with direct integrations for Jira, GitHub, and GitLab issues.
+
+10. 📋 **[Wekan](https://github.com/wekan/wekan)** [![GitHub stars](https://img.shields.io/github/stars/wekan/wekan?style=social&color=white)](https://github.com/wekan/wekan/stargazers)  
+    **Open-source Trello-like kanban board**. Features real-time collaboration, swimlanes, card dependencies, and granular user roles.
+
+11. 📈 **[OpenProject](https://github.com/opf/openproject)** [![GitHub stars](https://img.shields.io/github/stars/opf/openproject?style=social&color=white)](https://github.com/opf/openproject/stargazers)  
+    **Comprehensive open-source project management suite**. Work Packages, interactive Gantt charts, Scrum/Kanban boards, time tracking, cost management, and parallel Jira migration tools.
+
+12. 🚀 **[OneDev](https://github.com/theonedev/onedev)** [![GitHub stars](https://img.shields.io/github/stars/theonedev/onedev?style=social&color=white)](https://github.com/theonedev/onedev/stargazers)  
+    **All-in-one DevOps platform** with Git SCM, visual CI/CD pipeline generator, and issue tracking packaged into a single Java binary.
+
+13. 🎯 **[Leantime](https://github.com/Leantime/leantime)** [![GitHub stars](https://img.shields.io/github/stars/Leantime/leantime?style=social&color=white)](https://github.com/Leantime/leantime/stargazers)  
+    **Accessibility-focused project management platform** designed with features tailored for neurodiverse teams (ADHD, dyslexia), Kanban, Gantt, and goal tracking.
+
+14. 🧱 **[Kanboard](https://github.com/kanboard/kanboard)** [![GitHub stars](https://img.shields.io/github/stars/kanboard/kanboard?style=social&color=white)](https://github.com/kanboard/kanboard/stargazers)  
+    **Minimalist visual task board**. Focuses on drag-and-drop kanban simplicity, swimlanes, and zero-overhead performance.
+
+15. 💻 **[Taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior)** [![GitHub stars](https://img.shields.io/github/stars/GothenburgBitFactory/taskwarrior?style=social&color=white)](https://github.com/GothenburgBitFactory/taskwarrior/stargazers)  
+    **Flexible, fast command-line TODO manager** for terminal power users and developer automation.
+
+16. 🔴 **[Redmine](https://github.com/redmine/redmine)** [![GitHub stars](https://img.shields.io/github/stars/redmine/redmine?style=social&color=white)](https://github.com/redmine/redmine/stargazers)  
+    **Classic open-source issue tracking system**. Flexible role-based access control, Gantt charts, project wikis, and extensive plugin ecosystem.
+
+17. 🔄 **[Vikunja](https://github.com/go-vikunja/vikunja)** [![GitHub stars](https://img.shields.io/github/stars/go-vikunja/vikunja?style=social&color=white)](https://github.com/go-vikunja/vikunja/stargazers)  
+    **Self-hosted task management system** featuring hierarchical subtasks, smart recurring deadlines, Gantt charts, and Telegram bot integration.
+
+18. 🛡️ **[Taiga](https://github.com/kaleidos-ventures/taiga-back)** [![GitHub stars](https://img.shields.io/github/stars/kaleidos-ventures/taiga-back?style=social&color=white)](https://github.com/kaleidos-ventures/taiga-back/stargazers)  
+    **Focused Agile project management** tailored for Scrum sprint backlogs and Kanban boards.
+
+19. 🎨 **[4ga Boards](https://github.com/RARgames/4gaBoards)** [![GitHub stars](https://img.shields.io/github/stars/RARgames/4gaBoards?style=social&color=white)](https://github.com/RARgames/4gaBoards/stargazers)  
+    **Minimalist real-time kanban boards** with dark mode, collapsible lists, and simple Docker deployment.
+
+20. 🍊 **[Orangescrum](https://github.com/Orangescrum/opensource-community-edition)** [![GitHub stars](https://img.shields.io/github/stars/Orangescrum/opensource-community-edition?style=social&color=white)](https://github.com/Orangescrum/opensource-community-edition/stargazers)  
+    **Free self-hosted project management** with task tracking, time logging, checklists, and custom statuses.
+
+---
+
+## 🛠️ Frameworks & Integration Stacks
+
+**Building Custom Development Workflow Stacks**:
+- Combine **Plane** or **Linear** for modern issue tracking with sprint cycles.
+- Utilize **OpenProject** for comprehensive Gantt charts, resource allocation, and documentation.
+- Deploy **GitLab CE** or **Gitea** for tight SCM and built-in CI/CD pipelines.
+- Integrate **Super Productivity** or **Taskwarrior** for local developer task automation.
+
+---
+
+## 🤝 How to Contribute
+
+1. Fork the repository.
+2. Add or update entries in `README.md` following the established structure.
+3. Ensure open-source entries include valid GitHub repository links.
+4. Submit a Pull Request with a short summary of changes.
+
+---
+
+## ⚠️ Disclaimer
+
+- This is a community-curated list — not exhaustive and not an endorsement.
+- Evaluate security, access controls, and data protection requirements before deploying self-hosted solutions.
+
+---
+
+## 💖 Support
+
+Thank you for exploring **Awesome-Software-Development-Project-Workflow**! If you find this curated list helpful, please consider supporting the repository:
+
+- 🌟 **Star** this repository to show your appreciation and boost visibility.
+- 🍴 **Fork** and contribute additions or updates to help keep the list current.
+- 📢 **Share** it with fellow software engineers, product managers, and team leads.
+- ☕ **Buy me a coffee / Sponsor**: Support ongoing maintenance via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+Your support is greatly appreciated!
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Software-Development-Project-Workflow&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Software-Development-Project-Workflow&type=date&legend=top-left)
+
+---
 
 **Made for software teams, product managers, and organizations seeking development workflow sovereignty.**  
 

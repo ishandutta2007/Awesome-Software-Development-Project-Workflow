@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 280" width="100%" height="280">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A"/>
+      <stop offset="50%" stop-color="#1E1B4B"/>
+      <stop offset="100%" stop-color="#31103F"/>
+    </linearGradient>
+
+    <!-- Accent Gradients -->
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6366F1"/>
+      <stop offset="50%" stop-color="#8B5CF6"/>
+      <stop offset="100%" stop-color="#EC4899"/>
+    </linearGradient>
+
+    <linearGradient id="cardGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.02"/>
+    </linearGradient>
+
+    <!-- Glow Effect -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <!-- Background Base -->
+  <rect width="900" height="280" rx="16" fill="url(#bgGrad)" />
+
+  <!-- DYNAMIC / BACKGROUND ABSTRACT WORKFLOW NODES & GRAPH GRAPHICS -->
+  <g id="background-elements">
+    <!-- Connecting Workflow Lines -->
+    <path d="M 50 200 C 200 120, 350 220, 500 140 C 650 60, 750 180, 850 100" fill="none" stroke="url(#accentGrad)" stroke-width="2" stroke-dasharray="6,6" opacity="0.4">
+      <animate attributeName="stroke-dashoffset" from="100" to="0" dur="15s" repeatCount="indefinite"/>
+    </path>
+
+    <path d="M 80 80 C 250 180, 450 60, 650 210 C 750 260, 820 180, 880 220" fill="none" stroke="#38BDF8" stroke-width="1.5" stroke-opacity="0.25"/>
+
+    <!-- Subtle Floating Background Cards / Node Pills -->
+    <rect x="50" y="40" width="110" height="34" rx="8" fill="url(#cardGrad)" stroke="#6366F1" stroke-opacity="0.3"/>
+    <text x="105" y="62" fill="#818CF8" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="600" text-anchor="middle">⚙️ CI / CD</text>
+
+    <rect x="730" y="45" width="120" height="34" rx="8" fill="url(#cardGrad)" stroke="#EC4899" stroke-opacity="0.3"/>
+    <text x="790" y="67" fill="#F472B6" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="600" text-anchor="middle">🎯 SPRINT</text>
+
+    <rect x="70" y="215" width="130" height="34" rx="8" fill="url(#cardGrad)" stroke="#34D399" stroke-opacity="0.3"/>
+    <text x="135" y="237" fill="#34D399" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="600" text-anchor="middle">📋 KANBAN</text>
+
+    <rect x="710" y="210" width="140" height="34" rx="8" fill="url(#cardGrad)" stroke="#FBBF24" stroke-opacity="0.3"/>
+    <text x="780" y="232" fill="#FBBF24" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="600" text-anchor="middle">🔀 GIT WORKFLOW</text>
+
+    <!-- Animated Pulse Rings in Background -->
+    <circle cx="450" cy="140" r="110" fill="none" stroke="url(#accentGrad)" stroke-width="1" opacity="0.15">
+      <animate attributeName="r" values="90;130;90" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.2;0.05;0.2" dur="6s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- FOREGROUND TEXT & CONTENT (CLEAR, HIGH CONTRAST, GUARANTEED VISIBLE) -->
+  <g id="foreground-text">
+    <!-- Top Category Tag Pill -->
+    <rect x="330" y="32" width="240" height="26" rx="13" fill="#6366F1" opacity="0.25"/>
+    <text x="450" y="49" fill="#A5B4FC" font-family="system-ui, -apple-system, sans-serif" font-size="11" font-weight="700" letter-spacing="1.5" text-anchor="middle">SOFTWARE DEVELOPMENT ECOSYSTEM</text>
+
+    <!-- Main Title -->
+    <text x="450" y="105" fill="#FFFFFF" font-family="system-ui, -apple-system, sans-serif" font-size="28" font-weight="800" letter-spacing="0.5" text-anchor="middle" filter="url(#glow)">
+      Awesome Software Development
+    </text>
+    <text x="450" y="142" fill="url(#accentGrad)" font-family="system-ui, -apple-system, sans-serif" font-size="28" font-weight="800" letter-spacing="0.5" text-anchor="middle">
+      Project Workflow
+    </text>
+
+    <!-- Subtitle -->
+    <text x="450" y="178" fill="#94A3B8" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="500" text-anchor="middle">
+      Curated List of SaaS Platforms, Open-Source Tools, Agile Planning &amp; Issue Tracking
+    </text>
+
+    <!-- Bottom Feature Badges Bar -->
+    <g transform="translate(235, 205)">
+      <!-- Badge 1 -->
+      <rect x="0" y="0" width="130" height="28" rx="14" fill="#1E293B" stroke="#475569" stroke-width="1"/>
+      <text x="65" y="18" fill="#E2E8F0" font-family="system-ui, -apple-system, sans-serif" font-size="11" font-weight="600" text-anchor="middle">⚡ 10+ SaaS Leaders</text>
+
+      <!-- Badge 2 -->
+      <rect x="150" y="0" width="140" height="28" rx="14" fill="#1E293B" stroke="#475569" stroke-width="1"/>
+      <text x="220" y="18" fill="#E2E8F0" font-family="system-ui, -apple-system, sans-serif" font-size="11" font-weight="600" text-anchor="middle">🔓 20+ Open-Source</text>
+
+      <!-- Badge 3 -->
+      <rect x="305" y="0" width="125" height="28" rx="14" fill="#1E293B" stroke="#475569" stroke-width="1"/>
+      <text x="367" y="18" fill="#E2E8F0" font-family="system-ui, -apple-system, sans-serif" font-size="11" font-weight="600" text-anchor="middle">📊 Star Rankings</text>
+    </g>
+  </g>
+</svg>
