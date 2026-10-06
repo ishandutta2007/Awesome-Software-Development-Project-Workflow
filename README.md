@@ -52,64 +52,64 @@
 
 Sorted by GitHub community popularity (stargazers count descending):
 
-1. ⚡ **[AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)** [![GitHub stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white)](https://github.com/AppFlowy-IO/AppFlowy/stargazers)  
+1. ⚡ **[AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)** [![GitHub_Stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white)](https://github.com/AppFlowy-IO/AppFlowy/stargazers)  
    **Open-source Notion alternative** built with Flutter and Rust. Features offline-first privacy, customizable task boards, kanban views, and extensible databases.
 
-2. 🎨 **[AFFiNE](https://github.com/toeverything/AFFiNE)** [![GitHub stars](https://img.shields.io/github/stars/toeverything/AFFiNE?style=social&color=white)](https://github.com/toeverything/AFFiNE/stargazers)  
+2. 🎨 **[AFFiNE](https://github.com/toeverything/AFFiNE)** [![GitHub_Stars](https://img.shields.io/github/stars/toeverything/AFFiNE?style=social&color=white)](https://github.com/toeverything/AFFiNE/stargazers)  
    **Hyper-hybrid workspace platform** merging docs, whiteboards, and multi-dimensional project databases for modern engineering teams.
 
-3. 📊 **[NocoDB](https://github.com/nocodb/nocodb)** [![GitHub stars](https://img.shields.io/github/stars/nocodb/nocodb?style=social&color=white)](https://github.com/nocodb/nocodb/stargazers)  
+3. 📊 **[NocoDB](https://github.com/nocodb/nocodb)** [![GitHub_Stars](https://img.shields.io/github/stars/nocodb/nocodb?style=social&color=white)](https://github.com/nocodb/nocodb/stargazers)  
    **Open-source Airtable alternative** that transforms any SQL database into a smart spreadsheet & workflow management interface.
 
-4. ✈️ **[Plane](https://github.com/makeplane/plane)** [![GitHub stars](https://img.shields.io/github/stars/makeplane/plane?style=social&color=white)](https://github.com/makeplane/plane/stargazers)  
+4. ✈️ **[Plane](https://github.com/makeplane/plane)** [![GitHub_Stars](https://img.shields.io/github/stars/makeplane/plane?style=social&color=white)](https://github.com/makeplane/plane/stargazers)  
    **Modern AI-native open-source alternative to Jira & Linear**. Features Work Items, Cycles (sprints with burn-down charts), Modules, Pages (wiki with AI), and five view layouts (List, Board, Spreadsheet, Gantt, Calendar).
 
-5. ☕ **[Gitea](https://github.com/go-gitea/gitea)** [![GitHub stars](https://img.shields.io/github/stars/go-gitea/gitea?style=social&color=white)](https://github.com/go-gitea/gitea/stargazers)  
+5. ☕ **[Gitea](https://github.com/go-gitea/gitea)** [![GitHub_Stars](https://img.shields.io/github/stars/go-gitea/gitea?style=social&color=white)](https://github.com/go-gitea/gitea/stargazers)  
    **Lightweight, fast Git service written in Go**. Includes issue tracking, code reviews, pull requests, wikis, and built-in Actions-style CI/CD pipelines.
 
-6. 📝 **[Outline](https://github.com/outline/outline)** [![GitHub stars](https://img.shields.io/github/stars/outline/outline?style=social&color=white)](https://github.com/outline/outline/stargazers)  
+6. 📝 **[Outline](https://github.com/outline/outline)** [![GitHub_Stars](https://img.shields.io/github/stars/outline/outline?style=social&color=white)](https://github.com/outline/outline/stargazers)  
    **Fast, collaborative team knowledge base and documentation workspace** built specifically for software teams and product specifications.
 
-7. 📌 **[Focalboard](https://github.com/mattermost-community/focalboard)** [![GitHub stars](https://img.shields.io/github/stars/mattermost-community/focalboard?style=social&color=white)](https://github.com/mattermost-community/focalboard/stargazers)  
+7. 📌 **[Focalboard](https://github.com/mattermost-community/focalboard)** [![GitHub_Stars](https://img.shields.io/github/stars/mattermost-community/focalboard?style=social&color=white)](https://github.com/mattermost-community/focalboard/stargazers)  
    **Self-hosted alternative to Trello, Notion, and Asana** maintained by the Mattermost community. Kanban boards, table, and gallery views.
 
-8. 🦊 **[GitLab Community Edition](https://github.com/gitlabhq/gitlabhq)** [![GitHub stars](https://img.shields.io/github/stars/gitlabhq/gitlabhq?style=social&color=white)](https://github.com/gitlabhq/gitlabhq/stargazers)  
+8. 🦊 **[GitLab Community Edition](https://github.com/gitlabhq/gitlabhq)** [![GitHub_Stars](https://img.shields.io/github/stars/gitlabhq/gitlabhq?style=social&color=white)](https://github.com/gitlabhq/gitlabhq/stargazers)  
    **Leading open-source DevOps platform core**. Complete SCM with CI/CD pipelines, issue tracking, and project management.
 
-9. ⏱️ **[Super Productivity](https://github.com/johannesjo/super-productivity)** [![GitHub stars](https://img.shields.io/github/stars/johannesjo/super-productivity?style=social&color=white)](https://github.com/johannesjo/super-productivity/stargazers)  
+9. ⏱️ **[Super Productivity](https://github.com/johannesjo/super-productivity)** [![GitHub_Stars](https://img.shields.io/github/stars/johannesjo/super-productivity?style=social&color=white)](https://github.com/johannesjo/super-productivity/stargazers)  
    **Advanced developer task manager & time tracker** with direct integrations for Jira, GitHub, and GitLab issues.
 
-10. 📋 **[Wekan](https://github.com/wekan/wekan)** [![GitHub stars](https://img.shields.io/github/stars/wekan/wekan?style=social&color=white)](https://github.com/wekan/wekan/stargazers)  
+10. 📋 **[Wekan](https://github.com/wekan/wekan)** [![GitHub_Stars](https://img.shields.io/github/stars/wekan/wekan?style=social&color=white)](https://github.com/wekan/wekan/stargazers)  
     **Open-source Trello-like kanban board**. Features real-time collaboration, swimlanes, card dependencies, and granular user roles.
 
-11. 📈 **[OpenProject](https://github.com/opf/openproject)** [![GitHub stars](https://img.shields.io/github/stars/opf/openproject?style=social&color=white)](https://github.com/opf/openproject/stargazers)  
+11. 📈 **[OpenProject](https://github.com/opf/openproject)** [![GitHub_Stars](https://img.shields.io/github/stars/opf/openproject?style=social&color=white)](https://github.com/opf/openproject/stargazers)  
     **Comprehensive open-source project management suite**. Work Packages, interactive Gantt charts, Scrum/Kanban boards, time tracking, cost management, and parallel Jira migration tools.
 
-12. 🚀 **[OneDev](https://github.com/theonedev/onedev)** [![GitHub stars](https://img.shields.io/github/stars/theonedev/onedev?style=social&color=white)](https://github.com/theonedev/onedev/stargazers)  
+12. 🚀 **[OneDev](https://github.com/theonedev/onedev)** [![GitHub_Stars](https://img.shields.io/github/stars/theonedev/onedev?style=social&color=white)](https://github.com/theonedev/onedev/stargazers)  
     **All-in-one DevOps platform** with Git SCM, visual CI/CD pipeline generator, and issue tracking packaged into a single Java binary.
 
-13. 🎯 **[Leantime](https://github.com/Leantime/leantime)** [![GitHub stars](https://img.shields.io/github/stars/Leantime/leantime?style=social&color=white)](https://github.com/Leantime/leantime/stargazers)  
+13. 🎯 **[Leantime](https://github.com/Leantime/leantime)** [![GitHub_Stars](https://img.shields.io/github/stars/Leantime/leantime?style=social&color=white)](https://github.com/Leantime/leantime/stargazers)  
     **Accessibility-focused project management platform** designed with features tailored for neurodiverse teams (ADHD, dyslexia), Kanban, Gantt, and goal tracking.
 
-14. 🧱 **[Kanboard](https://github.com/kanboard/kanboard)** [![GitHub stars](https://img.shields.io/github/stars/kanboard/kanboard?style=social&color=white)](https://github.com/kanboard/kanboard/stargazers)  
+14. 🧱 **[Kanboard](https://github.com/kanboard/kanboard)** [![GitHub_Stars](https://img.shields.io/github/stars/kanboard/kanboard?style=social&color=white)](https://github.com/kanboard/kanboard/stargazers)  
     **Minimalist visual task board**. Focuses on drag-and-drop kanban simplicity, swimlanes, and zero-overhead performance.
 
-15. 💻 **[Taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior)** [![GitHub stars](https://img.shields.io/github/stars/GothenburgBitFactory/taskwarrior?style=social&color=white)](https://github.com/GothenburgBitFactory/taskwarrior/stargazers)  
+15. 💻 **[Taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior)** [![GitHub_Stars](https://img.shields.io/github/stars/GothenburgBitFactory/taskwarrior?style=social&color=white)](https://github.com/GothenburgBitFactory/taskwarrior/stargazers)  
     **Flexible, fast command-line TODO manager** for terminal power users and developer automation.
 
-16. 🔴 **[Redmine](https://github.com/redmine/redmine)** [![GitHub stars](https://img.shields.io/github/stars/redmine/redmine?style=social&color=white)](https://github.com/redmine/redmine/stargazers)  
+16. 🔴 **[Redmine](https://github.com/redmine/redmine)** [![GitHub_Stars](https://img.shields.io/github/stars/redmine/redmine?style=social&color=white)](https://github.com/redmine/redmine/stargazers)  
     **Classic open-source issue tracking system**. Flexible role-based access control, Gantt charts, project wikis, and extensive plugin ecosystem.
 
-17. 🔄 **[Vikunja](https://github.com/go-vikunja/vikunja)** [![GitHub stars](https://img.shields.io/github/stars/go-vikunja/vikunja?style=social&color=white)](https://github.com/go-vikunja/vikunja/stargazers)  
+17. 🔄 **[Vikunja](https://github.com/go-vikunja/vikunja)** [![GitHub_Stars](https://img.shields.io/github/stars/go-vikunja/vikunja?style=social&color=white)](https://github.com/go-vikunja/vikunja/stargazers)  
     **Self-hosted task management system** featuring hierarchical subtasks, smart recurring deadlines, Gantt charts, and Telegram bot integration.
 
-18. 🛡️ **[Taiga](https://github.com/kaleidos-ventures/taiga-back)** [![GitHub stars](https://img.shields.io/github/stars/kaleidos-ventures/taiga-back?style=social&color=white)](https://github.com/kaleidos-ventures/taiga-back/stargazers)  
+18. 🛡️ **[Taiga](https://github.com/kaleidos-ventures/taiga-back)** [![GitHub_Stars](https://img.shields.io/github/stars/kaleidos-ventures/taiga-back?style=social&color=white)](https://github.com/kaleidos-ventures/taiga-back/stargazers)  
     **Focused Agile project management** tailored for Scrum sprint backlogs and Kanban boards.
 
-19. 🎨 **[4ga Boards](https://github.com/RARgames/4gaBoards)** [![GitHub stars](https://img.shields.io/github/stars/RARgames/4gaBoards?style=social&color=white)](https://github.com/RARgames/4gaBoards/stargazers)  
+19. 🎨 **[4ga Boards](https://github.com/RARgames/4gaBoards)** [![GitHub_Stars](https://img.shields.io/github/stars/RARgames/4gaBoards?style=social&color=white)](https://github.com/RARgames/4gaBoards/stargazers)  
     **Minimalist real-time kanban boards** with dark mode, collapsible lists, and simple Docker deployment.
 
-20. 🍊 **[Orangescrum](https://github.com/Orangescrum/opensource-community-edition)** [![GitHub stars](https://img.shields.io/github/stars/Orangescrum/opensource-community-edition?style=social&color=white)](https://github.com/Orangescrum/opensource-community-edition/stargazers)  
+20. 🍊 **[Orangescrum](https://github.com/Orangescrum/opensource-community-edition)** [![GitHub_Stars](https://img.shields.io/github/stars/Orangescrum/opensource-community-edition?style=social&color=white)](https://github.com/Orangescrum/opensource-community-edition/stargazers)  
     **Free self-hosted project management** with task tracking, time logging, checklists, and custom statuses.
 
 ---
